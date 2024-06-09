@@ -42,6 +42,6 @@
 
 // "Código limpio es aquel que se ha escrito con la intención de que otra persona (o tú mismo en el futuro) lo entienda." - Carlos Blé
 
-// "Nuestro código tiene que ser simple y directo, debería leerse con la misma facilida que un texo bien escrito"- Grady Booch
+// "Nuestro código tiene que ser simple y directo, debería leerse con la misma facilidad que un texto bien escrito"- Grady Booch
 
 // "Programar es el arte de decirle a otro humano lo que quieres que la computadora haga" - Donald Knuth

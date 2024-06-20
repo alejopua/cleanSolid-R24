@@ -1,3 +1,5 @@
+// El principio de responsabilidad única es el termino que especifica que una función solo debe hacer lo que se esperaría que haga
+
 (() => {
   type Gender = "M" | "F";
 
@@ -27,6 +29,9 @@
     }
   }
 
+  // esta clase esta violando el principio de responsabilidad única porque esta clase tiene mas de una responsabilidad y hace muchas cosas. Es myu difícil mantener esta clase y saber para alguien que no la escribió que hace.
+  // algo que se procura evitar es manejar de manera abstract con herencia, porque se puede caer en el problema de tener clases muy grandes y con muchas responsabilidades
+  // aplicar el principio de responsabilidad unica en herencia es casi imposible de hacer.
   class UserSettings extends User {
     constructor(
       public workingDirectory: string,

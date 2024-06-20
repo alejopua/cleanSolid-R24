@@ -2,7 +2,7 @@ import "./style.css";
 import typescriptLogo from "./typescript.svg";
 import viteLogo from "/vite.svg";
 import { setupCounter } from "./counter.ts";
-import "./cleanSolid/clean code code - clases y comentarios/8.classes.ts";
+import "./cleanSolid/clean code code - clases y comentarios/8.classes-b.ts";
 
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
   <div>

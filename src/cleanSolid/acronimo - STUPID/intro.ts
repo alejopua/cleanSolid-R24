@@ -1,0 +1,1 @@
+// In this section talk about code smells is all that you shouldn't do in your code.
